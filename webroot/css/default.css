@@ -1,0 +1,38 @@
+
+.paginate_button {
+    z-index: 1;
+    float: right;
+    color: #fff;
+    border-color: #007bff;
+    cursor: pointer;
+    text-decoration: none;
+    position: relative;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #007bff;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+#list_length{
+    float: left;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    line-height: 1.5;
+}
+
+#list_filter {
+    float: right;
+}
+
+.paginate_button:active{
+    background-color: #007bff;
+}
+
+.action-btn{
+    margin-left: 10px;
+    margin-right: 10px;
+}

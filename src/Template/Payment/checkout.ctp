@@ -1,0 +1,1 @@
+<a href=""><img src="<?php echo $this->request->webroot ?>img/PayPal.png" alt="paypal"></a>
